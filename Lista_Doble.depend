@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1655070289 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\lista doble\lista_doble\listadoble.c
+	"listaDoble.h"
+
+1655069835 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\lista doble\lista_doble\listadoble.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utilitarios.h"
+
+1655068381 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\lista doble\lista_doble\utilitarios.h
+
+1655070135 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\lista doble\lista_doble\main.c
+	"main.h"
+
+1655066148 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\lista doble\lista_doble\main.h
+	<stdio.h>
+	<stdlib.h>
+	"listaDoble.h"
+
